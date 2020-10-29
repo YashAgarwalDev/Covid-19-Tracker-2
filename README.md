@@ -26,4 +26,4 @@ npm install
 /* run the project */
 npm start
 ```
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/13980585-ce0c-4a29-91ee-80df386e49ce/deploy-status)](https://app.netlify.com/sites/hungry-ardinghelli-0d119c/deploys)
