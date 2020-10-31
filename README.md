@@ -2,6 +2,8 @@
 
 ## [Live app](https:///)
 
+## [Screen Shot](https://github.com/YashAgarwalDev/Covid-19-Tracker-2/blob/main/Screenshot%20(16).png)
+
 ## Features
 
 - Track live data of Covid 19 cases, deaths and recovered. Users can see the total cases by country from the table, also see every day cases from the info boxes and map. 
