@@ -2,7 +2,7 @@
 
 ## [Live app](https:///)
 
-## [Screen Shot](https://github.com/YashAgarwalDev/Covid-19-Tracker-2/blob/main/Screenshot%20(16).png)
+![Screen Shot](https://github.com/YashAgarwalDev/Covid-19-Tracker-2/blob/main/Screenshot%20(16).png)
 
 ## Features
 
