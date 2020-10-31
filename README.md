@@ -1,4 +1,4 @@
-# Covid19 Tracker App with React 
+# Covid19 Tracker Version 2.0 with Maps and React
 
 ## [Live app](https:///)
 
